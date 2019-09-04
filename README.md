@@ -1,5 +1,5 @@
-#Pokemon Generator
-###- A Deep Learning Model implemented with [Wasserstein GAN](https://arxiv.org/abs/1701.07875v3)
+# Pokemon Generator
+### - A Deep Learning Model implemented with [Wasserstein GAN](https://arxiv.org/abs/1701.07875v3)
 ---
 ## Methods
 
